@@ -5,8 +5,70 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sergio-carrillo-cobacho-b4aa783a9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sergiocarrillocobacho@gmail.com) 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=plastic&logo=openstack&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=plastic&logo=astro&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=plastic&logo=node-red&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=plastic&logo=testing-library&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=plastic&logo=eclipsemosquitto&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=plastic&logo=home-assistant&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=plastic&logo=pi-hole&logoColor=white) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=plastic&logo=plex&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=plastic&logo=SONARLINT&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=plastic&logo=wireguard&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=plastic&logo=zigbee&logoColor=white)
+# 💻 Tech Stack (Skill Icons)
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🛡️ Security & Networking</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=linux,bash,nginx,apache,cisco&perline=10" />
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🏭 Industrial / Automation / IoT</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,docker,linux&perline=10" />
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>💻 Programming & Frameworks</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,cs,php,r,django,react&perline=10" />
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🧩 Web / Data / APIs</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,graphql,react,django&perline=10" />
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>🗄️ Databases</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&perline=10" />
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>☁️ Cloud / Containers / Observability</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,prometheus&perline=10" />
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>🧰 Tools & Platforms</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,gitlab,windows,powershell,dotnet&perline=10" />
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎨 Design</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=figma&perline=10" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 # 📊 GitHub Stats:
 <div align="center">
@@ -26,14 +88,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SergioCc13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-## Quote
-<h3 align="center">“Pain and suffering are always inevitable for a large intelligence and a deep heart.”</h3>
-<p align="center"><b>— Fyodor Dostoevsky</b></p>
-
 ## 🔝 Top Contributed Repo
 <div align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=SergioCc13&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+## Quote
+<h3 align="center">“Pain and suffering are always inevitable for a large intelligence and a deep heart.”</h3>
+<p align="center"><b>— Fyodor Dostoevsky</b></p>
 
 </div>
 
