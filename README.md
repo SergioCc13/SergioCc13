@@ -1,9 +1,25 @@
 # About Me:
-🔭 I’m currently working on  <br>Industrial cybersecurity fundamentals, focusing on IT/OT environments and network security in automated production systems.<br><br>👯 I’m looking to collaborate on  <br>Small cybersecurity projects related to industrial systems, network security, or IT/OT convergence.<br><br>🤝 I’m looking for help with  <br>Improving my practical skills in industrial incident response and security monitoring.<br><br>🌱 I’m currently learning  <br>Cybersecurity & Privacy (M.Sc.), with emphasis on network security, cryptography, and industrial cybersecurity.<br><br>💬 Ask me about  <br>Chemical plant operations, Siemens PCS7, industrial processes, and the interaction between physical systems and cybersecurity.<br><br>⚡ Fun fact  <br>I’m more comfortable analyzing alarms and logs than chasing buzzwords.
+🎯 Current focus  <br>
+Industrial cybersecurity fundamentals: IT/OT environments, industrial networks, and security monitoring in automated production systems.<br><br>
+
+🤝 Collaboration  <br>
+Small, practical projects related to industrial security, network defense, and IT/OT convergence.<br><br>
+
+🧩 Looking to improve  <br>
+Hands-on skills in industrial incident response and detection/monitoring techniques.<br><br>
+
+📚 Education  <br>
+IT Engineer. M.Sc. Cybersecurity & Privacy (in progress) with emphasis on network security, cryptography, and industrial cybersecurity.<br><br>
+
+🗣️ Ask me about  <br>
+Chemical plant operations, Siemens PCS7, ICS/DCS environments, and IT/OT interactions.<br><br>
+
+⚡ Fun fact  <br>
+I’m more comfortable analyzing alarms and logs than chasing buzzwords.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sergio-carrillo-cobacho-b4aa783a9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sergiocarrillocobacho@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sergio-carrillo-cobacho-b4aa783a9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sergiocarrillocobacho@gmail.com) 
 
 # 💻 Tech Stack (Skill Icons)
 
@@ -12,7 +28,7 @@
     <td align="center" width="50%">
       <h3>🛡️ Security & Networking</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=linux,bash,nginx,apache,cisco&perline=10" />
+        <img src="https://skillicons.dev/icons?i=linux,bash,nginx&perline=10" />
       </p>
     </td>
     <td align="center" width="50%">
@@ -92,8 +108,9 @@
 <div align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=SergioCc13&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+</div>
 
-## Quote
+## 🌙 Quote
 <h3 align="center">“Pain and suffering are always inevitable for a large intelligence and a deep heart.”</h3>
 <p align="center"><b>— Fyodor Dostoevsky</b></p>
 
@@ -101,5 +118,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SergioCc13&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
