@@ -87,7 +87,7 @@ I’m more comfortable analyzing alarms and logs than chasing buzzwords.
   </tr>
 </table>
 
-
+---
 # GitHub Stats:
 <div align="center">
 
@@ -109,6 +109,7 @@ I’m more comfortable analyzing alarms and logs than chasing buzzwords.
 ![](https://github-contributor-stats.vercel.app/api?username=SergioCc13&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 </div>
 
+---
 ## 🌙 Quote
 <h3 align="center">“Pain and suffering are always inevitable for a large intelligence and a deep heart.”</h3>
 <p align="center"><b>— Fyodor Dostoevsky</b></p>
