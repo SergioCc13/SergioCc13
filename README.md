@@ -94,13 +94,11 @@ I’m more comfortable analyzing alarms and logs than chasing buzzwords.
 ![](https://github-readme-stats.vercel.app/api?username=SergioCc13&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
 <br/>
-
 ![](https://nirzak-streak-stats.vercel.app/?user=SergioCc13&theme=tokyonight&hide_border=false)
 
 <br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioCc13&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 </div>
 
 ## Top Contributed Repo
@@ -108,12 +106,8 @@ I’m more comfortable analyzing alarms and logs than chasing buzzwords.
 
 ![](https://github-contributor-stats.vercel.app/api?username=SergioCc13&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 </div>
-
 ---
 ## 🌙 Quote
 <h3 align="center">“Pain and suffering are always inevitable for a large intelligence and a deep heart.”</h3>
 <p align="center"><b>— Fyodor Dostoevsky</b></p>
-
-</div>
-
 ---
