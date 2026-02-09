@@ -21,11 +21,9 @@ Chemical plant operations, Siemens PCS7, ICS/DCS environments, and IT/OT interac
 ## Fun fact  <br>
 I’m more comfortable analyzing alarms and logs than chasing buzzwords.
 
+---
 
-# Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sergio-carrillo-cobacho-b4aa783a9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sergiocarrillocobacho@gmail.com) 
-
-# 💻 Tech Stack
+# Tech Stack
 
 <table>
   <tr>
