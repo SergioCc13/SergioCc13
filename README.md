@@ -3,26 +3,26 @@
 </p>
 
 # About Me:
-Current focus  <br>
+## Current focus  <br>
 Industrial cybersecurity fundamentals: IT/OT environments, industrial networks, and security monitoring in automated production systems.<br><br>
 
-Collaboration  <br>
+## Collaboration  <br>
 Small, practical projects related to industrial security, network defense, and IT/OT convergence.<br><br>
 
-Looking to improve  <br>
+## Looking to improve  <br>
 Hands-on skills in industrial incident response and detection/monitoring techniques.<br><br>
 
-Education  <br>
+## Education  <br>
 IT Engineer. M.Sc. Cybersecurity & Privacy (in progress) with emphasis on network security, cryptography, and industrial cybersecurity.<br><br>
 
-Ask me about  <br>
+## Ask me about  <br>
 Chemical plant operations, Siemens PCS7, ICS/DCS environments, and IT/OT interactions.<br><br>
 
-Fun fact  <br>
+## Fun fact  <br>
 I’m more comfortable analyzing alarms and logs than chasing buzzwords.
 
 
-## Socials:
+# Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sergio-carrillo-cobacho-b4aa783a9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sergiocarrillocobacho@gmail.com) 
 
 # 💻 Tech Stack
@@ -118,4 +118,3 @@ I’m more comfortable analyzing alarms and logs than chasing buzzwords.
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SergioCc13&icon=0&color=0)](https://visitcount.itsvg.in)
