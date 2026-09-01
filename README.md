@@ -23,65 +23,53 @@ I’m more comfortable analyzing alarms and logs than chasing buzzwords.
 
 ---
 
+# Open Source Contributions
+
+Contributions to security &amp; cryptography projects:
+
+| Project | Area | PR | Status |
+|---|---|---|---|
+| [pymodbus](https://github.com/pymodbus-dev/pymodbus) | OT / Modbus | [#3015](https://github.com/pymodbus-dev/pymodbus/pull/3015) | ✅ merged |
+| [nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) | ICS / detection | [#17031](https://github.com/projectdiscovery/nuclei-templates/pull/17031) | ✔️ approved, pending merge |
+| [pyca/cryptography](https://github.com/pyca/cryptography) | Cryptography / PQC | [#15567](https://github.com/pyca/cryptography/pull/15567) | 🔵 open — maintainer-requested |
+
+- **pymodbus** — documented the server datamodel example in the published docs.
+- **nuclei-templates** — new network template that fingerprints Siemens SIMATIC S7 PLCs over S7comm.
+- **pyca/cryptography** — fixed missing version markers in the HPKE / post-quantum API documentation.
+
+---
+
 # Tech Stack
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🛡️ Security & Networking</h3>
+      <h3>🛡️ Security &amp; OT</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=linux,bash,nginx&perline=10" />
+        <img src="https://skillicons.dev/icons?i=linux,bash,powershell,docker&perline=10" />
       </p>
+      <sub>Siemens PCS7 · ICS/DCS · industrial networks · Modbus / S7comm · Nuclei</sub>
     </td>
     <td align="center" width="50%">
-      <h3>🏭 Industrial / Automation / IoT</h3>
+      <h3>💻 Programming</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,docker,linux&perline=10" />
+        <img src="https://skillicons.dev/icons?i=python,bash,c,sqlite&perline=10" />
       </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="50%">
-      <h3>💻 Programming & Frameworks</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,cs,php,r,django,react&perline=10" />
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🧩 Web / Data / APIs</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,graphql,react,django&perline=10" />
-      </p>
+      <sub>Python (primary) · Bash · YAML · basic C · SQL</sub>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="50%">
-      <h3>🗄️ Databases</h3>
+      <h3>🏭 Automation / IoT</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&perline=10" />
+        <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,linux&perline=10" />
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>☁️ Cloud / Containers / Observability</h3>
+      <h3>🧰 Tooling</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,prometheus&perline=10" />
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="50%">
-      <h3>🧰 Tools & Platforms</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,gitlab,windows,powershell,dotnet&perline=10" />
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🎨 Design</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=figma&perline=10" />
+        <img src="https://skillicons.dev/icons?i=git,github,docker,linux&perline=10" />
       </p>
     </td>
   </tr>
