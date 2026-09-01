@@ -102,10 +102,6 @@ IT/OT interactions.
 
 <div align="center">
 
-<img alt="contribution snake" src="https://raw.githubusercontent.com/SergioCc13/SergioCc13/output/snake-dark.svg" width="100%" />
-
-<br/>
-
 <img alt="streak" src="https://streak-stats.demolab.com/?user=SergioCc13&theme=tokyonight&hide_border=true" />
 
 </div>
