@@ -106,11 +106,7 @@ IT/OT interactions.
 
 <br/>
 
-<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=SergioCc13&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true" />
-
 <img alt="streak" src="https://streak-stats.demolab.com/?user=SergioCc13&theme=tokyonight&hide_border=true" />
-
-<img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioCc13&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
 </div>
 
