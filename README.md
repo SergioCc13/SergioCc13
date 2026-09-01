@@ -98,17 +98,19 @@ IT/OT interactions.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=SergioCc13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<img alt="contribution snake" src="https://raw.githubusercontent.com/SergioCc13/SergioCc13/output/snake-dark.svg" width="100%" />
 
-![](https://nirzak-streak-stats.vercel.app/?user=SergioCc13&theme=tokyonight&hide_border=true)
+<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioCc13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=SergioCc13&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true" />
 
-![](https://github-contributor-stats.vercel.app/api?username=SergioCc13&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<img alt="streak" src="https://streak-stats.demolab.com/?user=SergioCc13&theme=tokyonight&hide_border=true" />
+
+<img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioCc13&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
 </div>
 
