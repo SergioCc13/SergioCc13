@@ -31,40 +31,39 @@ IT/OT interactions.
 
 ## 🧩 Open Source Contributions
 
+<div align="center">
+
 <table>
   <tr>
-    <th>Project</th><th>Area</th><th>PR</th><th>Status</th>
+    <th align="center">Project</th><th align="center">What I did</th><th align="center">PR</th><th align="center">Status</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/pymodbus-dev/pymodbus">pymodbus</a></td>
-    <td>OT / Modbus</td>
-    <td><a href="https://github.com/pymodbus-dev/pymodbus/pull/3015">#3015</a></td>
-    <td>✅ merged</td>
+    <td align="center"><a href="https://github.com/pymodbus-dev/pymodbus"><b>pymodbus-dev/pymodbus</b></a><br/><sub>OT · Modbus</sub></td>
+    <td align="left">Documented the server datamodel example in the published docs.</td>
+    <td align="center"><a href="https://github.com/pymodbus-dev/pymodbus/pull/3015">#3015</a></td>
+    <td align="center"><img alt="merged" src="https://img.shields.io/badge/merged-8957e5?style=flat-square" /></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/projectdiscovery/nuclei-templates">nuclei-templates</a></td>
-    <td>ICS / detection</td>
-    <td><a href="https://github.com/projectdiscovery/nuclei-templates/pull/17031">#17031</a></td>
-    <td>✅ merged</td>
+    <td align="center"><a href="https://github.com/projectdiscovery/nuclei-templates"><b>projectdiscovery/nuclei-templates</b></a><br/><sub>ICS · Detection</sub></td>
+    <td align="left">New network template that fingerprints Siemens SIMATIC S7 PLCs over S7comm.</td>
+    <td align="center"><a href="https://github.com/projectdiscovery/nuclei-templates/pull/17031">#17031</a></td>
+    <td align="center"><img alt="merged" src="https://img.shields.io/badge/merged-8957e5?style=flat-square" /></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/pyca/cryptography">pyca/cryptography</a></td>
-    <td>Cryptography / PQC</td>
-    <td><a href="https://github.com/pyca/cryptography/pull/15567">#15567</a></td>
-    <td>✅ merged</td>
+    <td align="center"><a href="https://github.com/pyca/cryptography"><b>pyca/cryptography</b></a><br/><sub>Cryptography · PQC</sub></td>
+    <td align="left">Fixed missing version markers in the HPKE / post-quantum API docs.</td>
+    <td align="center"><a href="https://github.com/pyca/cryptography/pull/15567">#15567</a></td>
+    <td align="center"><img alt="merged" src="https://img.shields.io/badge/merged-8957e5?style=flat-square" /></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/openssl/openssl">openssl</a></td>
-    <td>Cryptography / CMS</td>
-    <td><a href="https://github.com/openssl/openssl/pull/32643">#32643</a></td>
-    <td>🔵 open · in review</td>
+    <td align="center"><a href="https://github.com/openssl/openssl"><b>openssl/openssl</b></a><br/><sub>Cryptography · CMS</sub></td>
+    <td align="left">Bug fix in CMS signature verification: per-signer results are reset for every SignerInfo when <code>CMS_verify()</code> fails, so no stale state is left behind. Includes regression tests.</td>
+    <td align="center"><a href="https://github.com/openssl/openssl/pull/32643">#32643</a></td>
+    <td align="center"><img alt="open" src="https://img.shields.io/badge/open%20·%20in%20review-238636?style=flat-square" /></td>
   </tr>
 </table>
 
-- **pymodbus** — documented the server datamodel example in the published docs.
-- **nuclei-templates** — new network template that fingerprints Siemens SIMATIC S7 PLCs over S7comm.
-- **pyca/cryptography** — fixed missing version markers in the HPKE / post-quantum API documentation.
-- **openssl** — bug fix in CMS signature verification: per-signer verify results are now reset for every SignerInfo when `CMS_verify()` fails, so a failed verification leaves no stale state. Includes regression tests; under review with the maintainers.
+</div>
 
 ---
 
