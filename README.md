@@ -45,19 +45,26 @@ IT/OT interactions.
     <td><a href="https://github.com/projectdiscovery/nuclei-templates">nuclei-templates</a></td>
     <td>ICS / detection</td>
     <td><a href="https://github.com/projectdiscovery/nuclei-templates/pull/17031">#17031</a></td>
-    <td>✔️ approved · pending merge</td>
+    <td>✅ merged</td>
   </tr>
   <tr>
     <td><a href="https://github.com/pyca/cryptography">pyca/cryptography</a></td>
     <td>Cryptography / PQC</td>
     <td><a href="https://github.com/pyca/cryptography/pull/15567">#15567</a></td>
-    <td>🔵 open · maintainer-requested</td>
+    <td>✅ merged</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/openssl/openssl">openssl</a></td>
+    <td>Cryptography / CMS</td>
+    <td><a href="https://github.com/openssl/openssl/pull/32643">#32643</a></td>
+    <td>🔵 open · in review</td>
   </tr>
 </table>
 
 - **pymodbus** — documented the server datamodel example in the published docs.
 - **nuclei-templates** — new network template that fingerprints Siemens SIMATIC S7 PLCs over S7comm.
 - **pyca/cryptography** — fixed missing version markers in the HPKE / post-quantum API documentation.
+- **openssl** — bug fix in CMS signature verification: per-signer verify results are now reset for every SignerInfo when `CMS_verify()` fails, so a failed verification leaves no stale state. Includes regression tests; under review with the maintainers.
 
 ---
 
