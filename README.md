@@ -59,7 +59,7 @@ IT/OT interactions.
     <td align="center"><a href="https://github.com/openssl/openssl"><b>openssl/openssl</b></a><br/><sub>Cryptography · CMS</sub></td>
     <td align="left">Bug fix in CMS signature verification: per-signer results are reset for every SignerInfo when <code>CMS_verify()</code> fails, so no stale state is left behind. Includes regression tests.</td>
     <td align="center"><a href="https://github.com/openssl/openssl/pull/32643">#32643</a></td>
-    <td align="center"><img alt="open" src="https://img.shields.io/badge/open%20·%20in%20review-238636?style=flat-square" /></td>
+    <td align="center"><img alt="merged" src="https://img.shields.io/badge/merged-8957e5?style=flat-square" /></td>
   </tr>
 </table>
 
