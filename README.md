@@ -29,6 +29,13 @@ IT/OT interactions.
 
 ---
 
+## 🏭 Featured Projects
+
+- **[Industry 4.0 IT/OT Lab](https://github.com/SergioCc13/Industria-Industria4.0)**: Bachelor's thesis lab. Pi Pico sensors publish over MQTT and a Raspberry Pi gateway exposes them over Modbus/TCP to a Node-RED HMI. Includes an architecture diagram and security notes (plain-text MQTT, unauthenticated Modbus, flat network) with IEC 62443-style mitigations.
+- **[jarvis](https://github.com/SergioCc13/jarvis)**: voice assistant built on Claude Code, with a HUD dashboard and a phone voice bridge over Tailscale.
+
+---
+
 ## 🧩 Open Source Contributions
 
 <div align="center">
